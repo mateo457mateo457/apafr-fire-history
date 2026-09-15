@@ -1,0 +1,38 @@
+# Data — kept outside the repo, see README
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Outputs
+figures/
+output/
+*.png
+*.pdf
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# R (if the older scripts land here)
+.Rhistory
+.RData
+.Rproj.user/
+
+# Secrets
+.env
