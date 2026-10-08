@@ -29,10 +29,12 @@ output/
 Thumbs.db
 desktop.ini
 
-# R (if the older scripts land here)
-.Rhistory
-.RData
-.Rproj.user/
-
 # Secrets
 .env
+
+# Archive
+*[Aa]rchive*/
+
+# Processed outputs to keep outside the repo
+processed/fire/maps/
+processed/fire/data_checks/
