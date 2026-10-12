@@ -9,7 +9,7 @@ Inputs (data/raw/fire/):
     master files/2006_2026/APAFR_Burn_Histroy_2006_2026.shp   (2006-2025 used)
     yearly files/2006-2009/*.shp   (old-style schema, used to recover lost
         ignition-source detail for 2006-2009 Unknowns in the master file)
-data/raw/boundary/boundary.shp  (range boundary + named target/impact areas,
+data/raw/fire/boundary/boundary.shp  (range boundary + named target/impact areas,
     used to compute distance-to-target for the Unknown-resolution model)
 
 Ignition source is classified into four categories: Prescribed, Military,
