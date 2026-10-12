@@ -9,3 +9,4 @@ be ported over to the MWB project.
 
 v1 (10-2-2026): we are attempting to assign fires in the older data with fire IDs.
 v2 (10-6-2026): another round where we attempt to apply what we learned in v1 to make a master fire data set.
+v3 (10-12-2026): compare the new data set with the old one to verify that our results will agree with previous work.
